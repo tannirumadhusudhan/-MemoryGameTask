@@ -16,6 +16,6 @@ The Memory Game is a card-matching game built with HTML, CSS, and JavaScript. Pl
 - `index.html`: Game structure.
 - `style.css`: Styling and animations.
 - `script.js`: Game logic.
-- `assets/`: Images for cards.
+
 
 
